@@ -1,0 +1,32 @@
+
+
+.container4 {
+   display: flex;
+    justify-content: center;
+    align-items: center; }
+.container4 h1 {
+color: white;
+}
+   
+   .overlay {
+      width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   } 
+
+   .vectorAlert {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    .vectorAlertImg {
+      width: 50;
+      height: 50;
+    }
